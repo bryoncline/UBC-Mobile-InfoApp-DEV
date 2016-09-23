@@ -1,1 +1,1 @@
-# UBC-Mobile-InfoApp-DEV-
+# UBC-Mobile-InfoApp-DEV
